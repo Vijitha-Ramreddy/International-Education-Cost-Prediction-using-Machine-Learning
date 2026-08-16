@@ -1,4 +1,3 @@
-xHere is a clean and professional **README.md** for your GitHub project. You can copy and paste it directly.
 
 # 🌍 International Education Cost Prediction
 
